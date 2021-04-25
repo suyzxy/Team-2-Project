@@ -44,7 +44,7 @@ Step 1 - Local machine and server preparation:
 
 The following 4 steps（step 2-step 5) are carried out on the **Windows machine**.
 
-Step 2 - Create the project file.
+Step 2 - Create the project file
 ------------------------------------
    ●	Open Anaconda, activate the DLC-CPU environment, and open it with IPython.
 
